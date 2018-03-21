@@ -38,10 +38,11 @@
 // type instead of the original type.
 //
 //===----------------------------------------------------------------------===//
-#include "llvm/Support/SPIRV.h"
 #include "llvm/Pass.h"
 #include "llvm/IR/LLVMContext.h"
 #include "llvm/IR/Function.h"
+
+#include "SPIRV.h"
 
 #include <map>
 #include <set>

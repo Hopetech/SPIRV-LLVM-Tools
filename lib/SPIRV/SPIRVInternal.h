@@ -49,7 +49,7 @@
 #include "llvm/IR/Attributes.h"
 #include "llvm/IR/Constants.h"
 #include "llvm/IR/Instructions.h"
-#include "llvm/Support/SPIRV.h"
+#include "SPIRV.h"
 
 #include <utility>
 #include <functional>
